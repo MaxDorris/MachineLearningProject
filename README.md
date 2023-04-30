@@ -15,6 +15,7 @@
 ### ERD Diagram
 
 ### Outline of Visualization Dashboard
+Our plan for our dashboard is to use JavaScript to use geoapi in Python to create overlays in a map of Los Angeles County to use show rent, water quality, and crime across the whole area.
 
 ### Mockup of Machine Learning Model
 
