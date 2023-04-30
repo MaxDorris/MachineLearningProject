@@ -8,6 +8,7 @@ __pycache__/
 
 # LARGE FILES
 Resources/
+*.csv
 
 # Distribution / packaging
 .Python
