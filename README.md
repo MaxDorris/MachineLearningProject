@@ -6,7 +6,7 @@
 ### Project Idea
 **Project Idea:** We are 
 
-**Dataset:** We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from _____.  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
+**Dataset:** We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from .  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
 
 **Problem Solving:** We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
 
