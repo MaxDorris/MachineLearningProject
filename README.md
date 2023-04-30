@@ -4,10 +4,10 @@
 
 # Deliverable One
 ### Project Idea
-*Project Idea:*
-*Dataset:* We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from ___.  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
-*Problem Solving:* We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
-*Predictive Problem to Be Solved:* We are going to make a linear regression model to estimate increases in rent in Los Angeles County based on water quality and crime.
+**Project Idea:**
+**Dataset:** We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from ___.  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
+**Problem Solving:** We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
+**Predictive Problem to Be Solved:** We are going to make a linear regression model to estimate increases in rent in Los Angeles County based on water quality and crime.
 
 ### ERD Diagram
 
