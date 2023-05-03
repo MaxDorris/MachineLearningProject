@@ -4,11 +4,9 @@
 
 # Deliverable One
 ### Project Idea
-**Project Idea:** We are 
+**Problem Solving:** We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
 
 **Dataset:** We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from .  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
-
-**Problem Solving:** We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
 
 **Predictive Problem to Be Solved:** We are going to make a linear regression model to estimate increases in rent in Los Angeles County based on water quality and crime.
 
@@ -19,6 +17,7 @@ Our plan for our dashboard is to use JavaScript to use geoapi in Python to creat
 
 ### Mockup of Machine Learning Model
 
+Type: linear regression. Confusion matrix: 
 
 #### Deliverable requirements via Brett:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
