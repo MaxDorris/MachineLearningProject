@@ -27,6 +27,13 @@ Our plan for our dashboard is to use JavaScript to use geoapi in Python to creat
 - Create a paper based mockup of your machine learning model.
 - Continue to use Github for all the data
 
+#### Deliverable 2 requirements:
+- A detailed README.md file that includes the project status, images, descriptions, and results
+- First attempt of a machine learning model, including a confusion matrix and accuracy score (20 points)
+- First attempt of a working dashboard
+- Database that stores data for the project (if applicable)
+- Draft of presentation (edited) 
+
 
 # Introduction
 
