@@ -1,27 +1,28 @@
-# Water Quality, Crime, and Rent in Los Angeles County
+# Determining Factors of Stroke
 
 ### A Data Analysis Project Created by Kayla Brown, Max Dorris, and Matthew Peach
 
 # Deliverable One
 ### Project Idea
-**Problem Solving:** We are going to look at the connection between cost of living (i.e. rent), the quality of water, and crime in the different areas of Los Angeles County.
+**Problem Solving:** We are examining determining factors of stroke based on health and environmental factors. 
 
-Linear regression determining key factors in heart failure leading to a death event.
+**Dataset:** We are using a set of data collected on over 5,000 patients that includes sex, age, hypertension, heart-disease, marital status, work type, type of residence, average blood glucose level (diabetes), body mass index, and historical smoking data.
 
-**Dataset:** We are using a set of crime data that we found on Kaggle as well as Water Quality Data from California.gov.  We are also using rent data from .  We combined the csv datasets into a database and used their postal ZIP codes as the common link for their locations.
-
-**Predictive Problem to Be Solved:** We are going to make a linear regression model to estimate increases in rent in Los Angeles County based on water quality and crime.
+**Predictive Problem to Be Solved:** We are going to make a linear regression model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.
 
 ### ERD Diagram
+At this point, the we are working with a single dataset, so we are not working with a database.
 
 ### Outline of Visualization Dashboard
-Our plan for our dashboard is to use JavaScript to use geoapi in Python to create overlays in a map of Los Angeles County to use show rent, water quality, and crime across the whole area.
+Our plan for our dashboard is to
 
 ### Mockup of Machine Learning Model
+Linear regression determining key factors leading to a stroke.
 
-Type: linear regression. Confusion matrix: 
+Type: linear regression. 
+Confusion matrix: 
 
-#### Deliverable requirements via Brett:
+#### Deliverable 1 requirements:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
 - Create an ER diagram and setup database for your data (if applicable)
 - Create an rough outline of your visualization dashboard.
@@ -34,15 +35,3 @@ Type: linear regression. Confusion matrix:
 - First attempt of a working dashboard
 - Database that stores data for the project (if applicable)
 - Draft of presentation (edited) 
-
-
-# Introduction
-
-# Methods
-
-# Results
-
-# Conclusion:
-
-One drawback of the Great-Circle Distance used in the pgeocode.haversine_distance(x,y) method for categorizing coordinates by their zipcode is that zipcode boundary-lines are non-circular and non-uniform, meaning that coordinates contained within a particularly irregular polygon may in fact be closer to the identifying "central" coordinate of another zipcode's polygon than they are to their own. Since we applied this method to each of our datasets before combining them, our data is only able to make predictions based on the approximate region.
-
