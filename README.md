@@ -8,19 +8,16 @@
 
 **Dataset:** We are using a set of data collected on over 5,000 patients that includes sex, age, hypertension, heart-disease, marital status, work type, type of residence, average blood glucose level (diabetes), body mass index, and historical smoking data.
 
-**Predictive Problem to Be Solved:** We are going to make a linear regression model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.
+**Predictive Problem to Be Solved:** We are making a linear regression model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.
 
 ### ERD Diagram
 At this point, the we are working with a single dataset, so we are not working with a database.
 
 ### Outline of Visualization Dashboard
-Our plan for our dashboard is to
+Our plan for our dashboard is to use charts to show factors individually and as a group in order to display different risk factors for strokes.
 
 ### Mockup of Machine Learning Model
-Linear regression determining key factors leading to a stroke.
-
-Type: linear regression. 
-Confusion matrix: 
+We will create a linear regression determining key factors leading to a stroke. 
 
 #### Deliverable 1 requirements:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
