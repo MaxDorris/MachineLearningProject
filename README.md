@@ -17,7 +17,7 @@ At this point, the we are working with a single dataset, so we are not working w
 Our plan for our dashboard is to use charts to show factors individually and as a group in order to display different risk factors for strokes.
 
 ### Mockup of Machine Learning Model
-We will create a linear regression determining key factors leading to a stroke. 
+We will create a linear regression determining key factors leading to a stroke to produce a risk score from key factors.  
 
 #### Deliverable 1 requirements:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
