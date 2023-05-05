@@ -20,8 +20,10 @@ Here are some initial ideas:
 ![sample visualizations](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Data_Visualization_Mockup.png)
 
 ### Mockup of Machine Learning Model
-We will create a linear regression determining key factors leading to a stroke to produce a risk score from key factors.  
+We will create a binary classification model with all features except **id** (dropped) and **stroke**, which will be our target. We will record differences in accuracy and sensitivity between supervised ML models and a Tensorflow-based neural network. We will then optimize the neural network to determine the best activation functions and number of dense layers.
 ![Machine Learning Visualization](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Machine_Learning_Mockup.png)
+
+
 
 #### Deliverable 1 requirements:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
