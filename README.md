@@ -20,6 +20,7 @@ Here are some initial ideas:
 
 ### Mockup of Machine Learning Model
 We will create a linear regression determining key factors leading to a stroke to produce a risk score from key factors.  
+![Machine Learning Visualization](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Machine_Learning_Mockup.png)
 
 #### Deliverable 1 requirements:
 - Finalized project idea including what is your dataset, what are the problems you solving, and what will be the predictive problem you will solve.
