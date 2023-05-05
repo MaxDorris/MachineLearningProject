@@ -11,7 +11,8 @@
 **Predictive Problem to Be Solved:** We are making a linear regression model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.
 
 ### ERD Diagram
-At this point, the we are working with a single dataset, so we are not working with a database.
+We are working with a single dataset, so we are still working out how a database will function in our project.  We made an ERD for the data we have.
+![ERD Version 1](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/ERD_1.png)
 
 ### Outline of Visualization Dashboard
 Our plan for our dashboard is to use charts to show factors individually and as a group in order to display different risk factors for strokes.
