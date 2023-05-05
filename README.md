@@ -30,6 +30,17 @@ We will create a linear regression determining key factors leading to a stroke t
 - Create a paper based mockup of your machine learning model.
 - Continue to use Github for all the data
 
+# Deliverable 2
+
+### Project Status
+**Machine Learning Status:**  
+
+**Working Dashboard Status:**
+
+**Database Status:**
+
+**Presentation Draft:**
+
 #### Deliverable 2 requirements:
 - A detailed README.md file that includes the project status, images, descriptions, and results
 - First attempt of a machine learning model, including a confusion matrix and accuracy score (20 points)
