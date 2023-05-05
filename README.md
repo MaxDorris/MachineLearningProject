@@ -20,8 +20,9 @@ Here are some initial ideas:
 ![sample visualizations](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Data_Visualization_Mockup.png)
 
 ### Mockup of Machine Learning Model
-We will create a binary classification model with all features except **id** (dropped) and **stroke**, which will be our target. We will record differences in accuracy and sensitivity between supervised ML models and a Tensorflow-based neural network. We will then optimize the neural network to determine the best activation functions and number of dense layers.
 ![Machine Learning Visualization](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Machine_Learning_Mockup.png)
+Prior to creating our model, we plan to create a pairplot, PCA, and correlation heatmap to determine the relationships between our input variables. We will then create a binary classification model with all features except **id** (dropped) and **stroke**, which will be our target. We will record differences in accuracy and sensitivity between supervised ML models and a Tensorflow-based neural network. Finally, we will optimize the neural network to determine the best activation functions and number of dense layers.
+
 
 
 
