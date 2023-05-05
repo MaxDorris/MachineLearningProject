@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # LARGE FILES
-Resources/
-*.csv
+# Resources/
+# *.csv
 
 # Distribution / packaging
 .Python
