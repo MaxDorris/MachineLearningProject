@@ -15,6 +15,8 @@ At this point, the we are working with a single dataset, so we are not working w
 
 ### Outline of Visualization Dashboard
 Our plan for our dashboard is to use charts to show factors individually and as a group in order to display different risk factors for strokes.
+Here are some initial ideas:
+![sample visualizations](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/Data_Visualization_Mockup.png)
 
 ### Mockup of Machine Learning Model
 We will create a linear regression determining key factors leading to a stroke to produce a risk score from key factors.  
