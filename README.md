@@ -8,7 +8,7 @@
 
 **Dataset:** We are using a set of data collected on over 5,000 patients that includes sex, age, hypertension, heart-disease, marital status, work type, type of residence, average blood glucose level (diabetes), body mass index, and historical smoking data.
 
-**Predictive Problem to Be Solved:** We are making a linear regression model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.
+**Predictive Problem to Be Solved:** We are making a classification model to estimate key factors leading to a stroke by comparing the factors mentioned in the dataset with whether the patient had a stroke or not in order to see which factors align most closely with those who have experienced a stroke.  The model we plan to use will be a random forest.
 
 ### ERD Diagram
 We are working with a single dataset, so we are still working out how a database will function in our project.  We made an ERD for the data we have.
