@@ -37,7 +37,8 @@ Prior to creating our model, we plan to create a pairplot, PCA, and correlation 
 
 ### Project Status
 **Machine Learning Status:**  
-We created a random forest classification model as we had planned.
+After extensive cleaning of the data to remove null data, we realized that in order to get any true accuracy with our model, we would need to balance the dataset in order to have an appropriate number of data points representing patients who have had a stroke.  We have also run an early version of a random forest classification model to get a baseline for accuracy before boosting the dataset.  The results were about as we expected:
+![First attempt at random forest](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/First_Run_Random_Forest.png)
 
 **Working Dashboard Status:**
 
