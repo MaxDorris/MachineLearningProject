@@ -37,12 +37,15 @@ Prior to creating our model, we plan to create a pairplot, PCA, and correlation 
 
 ### Project Status
 **Machine Learning Status:**  
+We created a random forest classification model as we had planned.
 
 **Working Dashboard Status:**
 
 **Database Status:**
+We started working on loading our data into Postgres this week, as can be seen in this repository, but this was completed before we created our plan for loading the database into AWS.
 
 **Presentation Draft:**
+We have started a draft of our presentation slides [here](https://docs.google.com/presentation/d/19WnwId6o2BqmmcGkq_VHWOdAGJx_eTl9xma43RCzPBA/edit?usp=sharing). These draft slides were made pretty early in the process of this project, so we know they need to be updated between now and next week when we present.
 
 #### Deliverable 2 requirements:
 - A detailed README.md file that includes the project status, images, descriptions, and results
