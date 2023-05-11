@@ -40,6 +40,8 @@ Prior to creating our model, we plan to create a pairplot, PCA, and correlation 
 After extensive cleaning of the data to remove null data, we realized that in order to get any true accuracy with our model, we would need to balance the dataset in order to have an appropriate number of data points representing patients who have had a stroke.  We have also run an early version of a random forest classification model to get a baseline for accuracy before boosting the dataset.  The results were about as we expected:
 ![First attempt at random forest](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/First_Run_Random_Forest.png)
 
+As is, the data is overfitted such that guessing a 0 every time presents the score of 95% acccuracy.  We plan to use imblearn to create more data points of patients with strokes in order to improve our model.
+
 **Working Dashboard Status:**
 
 **Database Status:**
