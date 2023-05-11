@@ -57,6 +57,7 @@ We have started a draft of our presentation slides [here](https://docs.google.co
 - Database that stores data for the project (if applicable)
 - Draft of presentation (edited) 
 
+# Deliverable 3:
 
 
 
@@ -74,8 +75,7 @@ We have started a draft of our presentation slides [here](https://docs.google.co
 
 
 
-
-#### Deliverable 3:
+**Draft ideas**
 .
 .
 .
