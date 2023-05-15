@@ -42,8 +42,8 @@ After extensive cleaning of the data to remove null data, we realized that in or
 
 As is, the data is overfitted such that guessing a 0 every time presents the score of 95% acccuracy.  We plan to use imblearn to create more data points of patients with strokes in order to improve our model.
 
-**Working Dashboard Status:*IN Progress*
-https://public.tableau.com/views/MachineLearning_16838699374380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+**Working Dashboard Status:**
+The current draft of our dashboard can be found [here(https://public.tableau.com/views/MachineLearning_16838699374380/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 **Database Status:**
 We started working on loading our data into Postgres this week, as can be seen in this repository, but this was completed before we created our plan for loading the database into AWS.
