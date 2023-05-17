@@ -21,7 +21,9 @@ We then created a pipeline to connect our dataset from a simple spreadsheet to t
 The dataset as we first encountered it required some cleaning to remove null data and to remove superfluous fields from the data set.  We then ran an initial classification model, specifically a random forest classification model, to get a baseline for accuracy before boosting the dataset. 
 ![First attempt at random forest](https://github.com/MaxDorris/MachineLearningProject/blob/main/images/First_Run_Random_Forest.png)
 These initial results were overwhelmingly correct because of the unbalanced nature of our dataset.  A visualization of our data when comparing patients who had experienced a stroke versus those who had not revealed that nearly 96% of the patients in our dataset had not experienced a stroke.
+
 ![Unbalanced Data Ratio](https://github.com/MaxDorris/MachineLearningProject/blob/main/Unbalanced_Data_Pie_Chart.png)
+
 This meant that the model could guess "0" every time and be correct with tremendous accuracy.  To overcome this overfitting of the data, we used imblearn to create more data points of patients with strokes in order to improve our model.
 
 #### Data Visualizations
