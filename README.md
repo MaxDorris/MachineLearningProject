@@ -30,3 +30,5 @@ This meant that the model could guess "0" every time and be correct with tremend
 For our data visualizations, we used Tableau to delineate between patients who had experienced a stroke and those who had not, and then used a 
 
 ### Conclusions
+
+The **slides** for our final presentation can be found [here](https://docs.google.com/presentation/d/19WnwId6o2BqmmcGkq_VHWOdAGJx_eTl9xma43RCzPBA/edit?usp=sharing).
