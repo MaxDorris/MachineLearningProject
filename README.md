@@ -28,7 +28,7 @@ This meant that the model could guess "0" every time and be correct with tremend
 
 #### Data Visualizations
 For our data visualizations, we used Tableau to delineate between patients who had experienced a stroke and those who had not, and then used a 
-
+https://public.tableau.com/views/MachineLearning_16838699374380/StrokeData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 ### Conclusions
 
 The **slides** for our final presentation can be found [here](https://docs.google.com/presentation/d/19WnwId6o2BqmmcGkq_VHWOdAGJx_eTl9xma43RCzPBA/edit?usp=sharing).
