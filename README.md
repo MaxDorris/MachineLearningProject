@@ -1,5 +1,7 @@
 # Determining Factors of Stroke
 
+*** NOTE: This project is not yet updated and was cut short due to time constraints. After finding a better dataset a simialr analysis will be conducted to further this investigation with shallow and deep learning models.
+
 ## A Data Analysis Project Created by Kayla Brown, Max Dorris, and Matthew Peach
 
 ### Project Overview
